@@ -1,0 +1,3 @@
+# NPM package install
+
+- cors
